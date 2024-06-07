@@ -17,7 +17,7 @@ Si quieres mirar mis proyectos mira mi GitHub:
 
 https://github.com/JesusJimenez2004
 
-Quiero ser el que mas horas dedique y ser capaz llevar a la empresa lo mejor que pueda, con mucha hambre de aprender y aportar valor a los demás.
+>🎯 Goals: ...<br> Quiero ser el que mas horas dedique y ser capaz llevar a la empresa lo mejor que pueda, con mucha hambre de aprender y aportar valor a los demás.
 </p>
 
 ###
