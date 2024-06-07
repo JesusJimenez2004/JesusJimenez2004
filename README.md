@@ -30,15 +30,15 @@ https://github.com/JesusJimenez2004
 
 <ul>
   
-<li>Lenguajes de programacion: Java, HTML, CSS,Javascript
+<li>Lenguajes de programacion: Java, HTML, CSS, Javascript
 
 <li>Frontend:Javascript, HTML, CSS, Vue.js
 
 <li>Backend:Springboot, Hibernate
 
-<li>Bases de datos: PostgreSQL, Consultas SQL,MySQL
+<li>Bases de datos: PostgreSQL, Consultas SQL, MySQL
 
-<li>Herramientas: Postman, trello, Docker, VSCode, Intellij IDE, Spring Data JPA, Spring MVC, Spring WEB, Maven
+<li>Herramientas: Postman, trello, Docker, VSCode, Intellij IDE, Spring Data JPA, Spring MVC, Spring WEB, Maven.
 </ul>
 
 
