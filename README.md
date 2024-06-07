@@ -27,8 +27,10 @@ https://github.com/JesusJimenez2004
 ###
 
 <h2 align="left">Tecnologias:</h2>
+
 <ul>
-Lenguajes de programacion:
+  
+<li>Lenguajes de programacion:
 
 <li>Frontend:
 
