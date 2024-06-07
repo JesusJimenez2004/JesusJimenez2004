@@ -33,11 +33,11 @@ Lenguajes de programacion:
 <ol>
 <li>Frontend:
 
-Backend:
+<li>Backend:
 
-Bases de datos:
+<li>Bases de datos:
 
-Herramientas:
+<li>Herramientas:
 </ol>
 
 
