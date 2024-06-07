@@ -30,14 +30,14 @@ https://github.com/JesusJimenez2004
 
 Lenguajes de programacion:
 
-
-Frontend:
+<ol>
+<li>Frontend:
 
 Backend:
 
 Bases de datos:
 
 Herramientas:
-
+</ol>
 
 
