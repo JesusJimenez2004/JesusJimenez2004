@@ -11,27 +11,27 @@ Si quieres saber un poco mas de mi y de lo que soy capaz de realizar mira mi tik
 
 https://www.tiktok.com/@chuzzdev
 
-📚 Sigo Impulsando mi aprendizaje <br>:
+📚 Sigo Impulsando mi aprendizaje <br>
+
 He Desarrollado proyectos en equipo donde pude mejorar mis habilidades blandas y de comunicación con los compañeros de trabajo, siendo capaz de aprender nuevas tecnologías y elevando la practica de mi Stack elaborando proyectos personales.
 
 Si quieres mirar mis proyectos mira mi GitHub:
 
 https://github.com/JesusJimenez2004
 
->🎯 Metas <br>:
+>🎯 Metas <br>
+
 >Quiero ser el que mas horas dedique y ser capaz llevar a la empresa lo mejor que pueda, con mucha hambre de aprender y aportar valor a los demás.
 </p>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias:</h2>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+Lenguajes de programacion:
+Frontend:
+Backend:
+Bases de datos:
+Herramientas:
 
 
