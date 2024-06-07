@@ -30,6 +30,7 @@ https://github.com/JesusJimenez2004
 
 Lenguajes de programacion:
 
+
 Frontend:
 
 Backend:
