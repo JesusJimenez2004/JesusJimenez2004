@@ -29,9 +29,14 @@ https://github.com/JesusJimenez2004
 <h2 align="left">Tecnologias:</h2>
 
 Lenguajes de programacion:
+
 Frontend:
+
 Backend:
+
 Bases de datos:
+
 Herramientas:
+
 
 
