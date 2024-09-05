@@ -25,7 +25,7 @@ https://github.com/JesusJimenez2004
 
 ###
 
-<h2 align="left">Tecnologias:</h2>
+<h2 align="left">Habilidades Tecnicas:</h2>
 
 <ul>
   
@@ -41,4 +41,5 @@ https://github.com/JesusJimenez2004
 
 </ul>
 
-
+<h2 align="left">Idiomas:</h2>
+<h1> español (Nativo), Ingles: B1. (Cursando actualmente en UlearnAcademy).
