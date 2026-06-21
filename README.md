@@ -1,5 +1,5 @@
 <h1 align="left">Hola,Soy Jesus👋 </h1>
-<h1 align="left">Soporte Tecnico IT|Hardware-Software| CiberSeguridad</h1>
+<h1 align="left">IT Support Technician | Microsoft 365 | Entra ID | Active Directory | Cybersecurity</h1>
 
 ###
 <h2 align="left">Sobre Mi</h2>
