@@ -3,7 +3,7 @@
 
 ###
 <h2 align="left">Sobre Mi</h2>
-<p align="left">Hola!
+<p align="left">
 Técnico de Soporte TI con experiencia en administración de Microsoft 365, Active Directory, Entra ID, gestión de accesos, licencias y soporte técnico nivel 1 y 2 en entornos corporativos.
 
 Actualmente participo en la administración del ciclo de vida de usuarios, incluyendo altas, bajas, asignación de licencias, gestión de permisos, acceso VPN y soporte a usuarios finales, contribuyendo a la continuidad y seguridad de los servicios tecnológicos de la organización.
